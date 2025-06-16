@@ -23,7 +23,7 @@ PRODUCT_QUERY_BOT/
 ├── agents/             # LangChain tools: retrieve, llm
 ├── vectorstore/        # Setup for Chroma DB (build + load)
 ├── tests/              # Unit tests (pytest)
-├── docs/               # Product description text files (~1000 words each)
+├── docs/               # Dummy product description text files (~1000 words each)
 ├── db/                 # Persistent vector store
 ├── main.py             # FastAPI app (entry point)
 ├── rag_pipeline.py     # LangGraph pipeline logic
